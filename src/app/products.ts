@@ -5,7 +5,7 @@ export const products = [
     description: 'A large phone with one of the best screens'
   },
   {
-    name: 'Phone Mini',
+    name: 'Pixel 3a',
     price: 699,
     description: 'A great phone with one of the best cameras'
   },
